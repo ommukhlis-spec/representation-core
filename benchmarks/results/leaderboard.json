@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-07-04T23:50:38.190071",
+  "total_tasks": 20,
+  "total_representations": 3,
+  "rankings": [
+    {
+      "rank": 1,
+      "representation": "object",
+      "coverage": 15,
+      "rcs_verdict": "strong_accept",
+      "rcs_score": 3.8,
+      "avg_applicability": 0.8
+    },
+    {
+      "rank": 2,
+      "representation": "symmetry",
+      "coverage": 4,
+      "rcs_verdict": "weak_accept",
+      "rcs_score": 1.9,
+      "avg_applicability": 0.392
+    },
+    {
+      "rank": 3,
+      "representation": "pixel",
+      "coverage": 1,
+      "rcs_verdict": "reject",
+      "rcs_score": -0.1,
+      "avg_applicability": 1.0
+    }
+  ]
+}
